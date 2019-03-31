@@ -1,0 +1,14 @@
+TDD = Test Driven Design
+write your tests before writing your code
+
+why TDD? 
+3 major benefits 
+gives devs safety net to change code, knowing things wont break
+Documents your code for how it is supposed to work
+gives you guidanc on how to build your code
+
+building tests - test all "interesting" cases
+anything that takes you down a different path of the code
+do not build extra tests if you don't need it
+
+don't write your test in your test file
